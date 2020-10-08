@@ -8,6 +8,10 @@ Please read the instructions here (https://github.com/cardinity/cardinity-openca
 **New categories**: Payment by card, Subscriptions.
 ## NAME OF YOUR MODULE
 Cardinity Credit Card Processing Module
+Cardinity Credit Card Processing Module
+Cardinity Credit Card Processing Module
+Cardinity Credit Card Processing Module
+Cardinity Credit Card Processing Module
 ## SHORT DESCRIPTION
 Accept direct credit and debit card payments directly in your shop. No monthly fees, no setup fees. Over 100 currencies supported. Allow your customers to easily pay by credit or debit card. Easy set-up and approval. All European merchants welcome.
 ## THE BENEFITS FOR MERCHANTS
